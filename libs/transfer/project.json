@@ -1,4 +1,5 @@
 {
+  "name": "transfer",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "library",
   "sourceRoot": "libs/transfer/src",
@@ -7,7 +8,7 @@
   "targets": {
     "build": {
       "executor": "@nrwl/angular:package",
-      "outputs": ["dist/libs/transfer"],
+      "outputs": ["{workspaceRoot}/dist/libs/transfer"],
       "options": {
         "project": "libs/transfer/ng-package.json"
       },

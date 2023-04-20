@@ -1,4 +1,4 @@
-@import '~@backbase/ui-ang/scss/1-variables/brand/color';
+@import '@backbase/ui-ang/scss/1-variables/brand/color';
 
 :host {
   display: flex;
@@ -37,7 +37,7 @@
 }
 
 .transactions-item__transactionType {
-  font-size: .8rem;
+  font-size: 0.8rem;
   color: gray;
 }
 
