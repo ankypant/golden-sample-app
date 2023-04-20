@@ -70,7 +70,7 @@
     "@angular-eslint/eslint-plugin-template": "15.0.0",
     "@angular-eslint/schematics": "15.0.0",
     "@angular-eslint/template-parser": "15.0.0",
-    "@angular/cli": "^14.2.0",
+    "@angular/cli": "15.2.6",
     "@angular/compiler-cli": "15.2.8",
     "@angular/language-service": "15.2.8",
     "@dot-build/serve-and-run-angular": "^1.0.2",
